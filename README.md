@@ -1,4 +1,4 @@
-Ubuntu 20.04
+# Ubuntu 20.04
 
 This project is about introducing ubuntu 20.04 and installtion step by step
 
