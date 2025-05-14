@@ -4,7 +4,7 @@ This project is about introducing ubuntu 20.04 and installtion step by step
 
 ## Contents in the project
 
-Introduction
+[Introduction]
 Hardware and Software requirement
 installation step by step
 problems i face while installtion and the solution
