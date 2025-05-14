@@ -1,0 +1,15 @@
+# Ubuntu 20.04
+
+This project is about introducing ubuntu 20.04 and installtion step by step
+
+## contents in the project
+
+introduction
+objective
+Hardware and Software requirment
+installation step by step
+problems i face while installtion and the solution
+Advantage and Disadvantage
+future outlook about ubuntu 20.04
+
+## System call:chroot()
